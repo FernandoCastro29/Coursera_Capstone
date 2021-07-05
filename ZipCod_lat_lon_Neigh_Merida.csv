@@ -224,11 +224,11 @@ cp,colonia,lat,lon
 97203,magnolias,21.02109,-89.65658
 97203,merida,20.9754,-89.617
 97203,san pablo,20.95441,-89.5693
-97203,puesta del sol,20.9754,-89.617
+97203,puesta del sol,21.01775,89.64002
 97203,chuburna de hidalgo iv,20.9754,-89.617
 97203,rincun colonial,20.9754,-89.617
 97203,ampliaciun francisco de montejo,20.9754,-89.617
-97203,tulias de chuburna,20.9754,-89.617
+97203,tulias de chuburna,21.0132,-89.6435
 97203,arboledas chuburna,21.00794,-89.63236
 97203,arcos del sol,21.02155,-89.64884
 97203,aurea residencial,21.03785,-89.63489
@@ -237,19 +237,19 @@ cp,colonia,lat,lon
 97203,francisco de montejo iii,21.04105,-89.64001
 97203,francisco de montejo iv,21.04484,-89.64386
 97203,francisco de montejo v,21.02916,-89.6426
-97203,la castellana,20.9754,-89.617
-97203,las haciendas iii,20.9754,-89.617
+97203,la castellana,20.98286,-89.67944
+97203,las haciendas iii,21.01593,-89.64279
 97203,nuevo san jose,20.9754,-89.617
-97203,platino,20.9754,-89.617
-97203,privada chuburna de hidalgo (ii),20.9754,-89.617
+97203,platino,20.9675,89.67701
+97203,privada chuburna de hidalgo (ii),21.0212,-89.63569
 97203,nueva san jose chuburna,20.9754,-89.617
 97203,francisco de montejo,21.03086,-89.64579
 97203,san francisco chuburna ii,20.9754,-89.617
 97203,almendros,20.9754,-89.617
 97203,brisas de chuburna,21.0167,-89.63883
-97203,el conquistador,20.9754,-89.617
+97203,el conquistador,21.0234,-89.65311
 97203,lotificacion chuburna de hidalgo i,20.9754,-89.617
-97203,terranova,20.9754,-89.617
+97203,terranova,21.02118,-89.65253
 97203,villas del prado,21.02302,-89.64042
 97203,chuburna de hidalgo v,20.9754,-89.617
 97203,cordeleros de chuburna,21.01143,-89.64327
@@ -257,16 +257,16 @@ cp,colonia,lat,lon
 97203,privada las palmas,20.9754,-89.617
 97203,privada palma corozal,20.9754,-89.617
 97203,industrias no contaminantes,20.9754,-89.617
-97203,del bosque,20.9754,-89.617
-97203,cocoteros,20.9754,-89.617
+97203,del bosque,21.02381,-89.63155
+97203,cocoteros,21.02303,-89.63801
 97203,chuburna de hidalgo iii,20.9754,-89.617
-97203,el prado,20.9754,-89.617
-97203,vista alegre de chuburna,20.9754,-89.617
+97203,el prado,21.02176,-89.64211
+97203,vista alegre de chuburna,21.0149,-89.64043
 97203,villas las palmas,20.9754,-89.617
-97203,arekas,20.9754,-89.617
-97203,privada chuburna plus,20.9754,-89.617
+97203,arekas,20.98629,-89.5852
+97203,privada chuburna plus,21.02264,-89.63683
 97203,privada villa palma real,20.9754,-89.617
-97203,san pedro uxmal,20.9754,-89.617
+97203,san pedro uxmal,21.01767,-89.64513
 97204,xcumpich,21.035,-89.6355
 97204,residencial galerias,21.0685,-89.6559
 97204,residencial piedrasul,21.0685,-89.6559
@@ -299,7 +299,7 @@ cp,colonia,lat,lon
 97205,privada chuburna de hidalgo i,21.0771,-89.5802
 97206,las dalias,21.0168,-89.63542
 97206,yaxche,21.034,-89.5002
-97206,el rosario,21.0057,-89.64209
+97206,el rosario,21.00633,-89.64185
 97206,paraiso,20.8703,-89.5947
 97206,san francisco i,20.9521,-89.5474
 97206,privada san jose,20.9521,-89.5474
@@ -318,7 +318,7 @@ cp,colonia,lat,lon
 97206,privada san angel chuburna,21.0069,-89.63459
 97207,villas de chuburna,21.00726,-89.63909
 97207,callejones de chuburna,21.00961,-89.63778
-97208,el cedral,20.984,-89.6395
+97208,el cedral,21.01076,-89.6262
 97208,resid. las quintas (chuburna),21.0167,-89.6333
 97208,felipe carrillo puerto,20.99594,-89.60087
 97208,malaga,21.0167,-89.6333
@@ -351,17 +351,17 @@ cp,colonia,lat,lon
 97218,privada san damin,20.7667,-89.65
 97218,conjunto los naranjos,20.7667,-89.65
 97218,residencial roma,20.7667,-89.65
-97219,limones,20.984,-89.6395
+97219,limones,21.00325,-89.64726
 97219,chenku,21.0167,-89.65
-97219,lindavista,20.984,-89.6395
+97219,lindavista,21.0078,-89.65815
 97219,residencial del bosque chenku,21.0167,-89.65
-97219,francisco villa,20.984,-89.6395
-97219,quinta versalles,21.0167,-89.65
+97219,francisco villa,21.00312,-89.64365
+97219,quinta versalles,20.96742,-89.59306
 97219,lzaro crdenas,20.984,-89.6395
-97219,privada pensiones,21.0167,-89.65
-97219,lotificacion san damiancito ii,21.0167,-89.65
-97219,san damiancito,21.0167,-89.65
-97219,residencial del norte,21.0167,-89.65
+97219,privada pensiones,21.00098,-89.64192
+97219,lotificacion san damiancito ii,20.95927,-89.67653
+97219,san damiancito,20.99953,-89.63749
+97219,residencial del norte,21.00706,-89.65378
 97219,lindavista ii,21.01117,-89.66044
 97219,jardines de lindavista,21.00993,-89.65508
 97219,amapola,21.00777,-89.66227
@@ -384,9 +384,9 @@ cp,colonia,lat,lon
 97220,zona dorada,20.8753,-89.5953
 97225,privada san pedro,20.8753,-89.5953
 97225,paseo de las fuentes,20.8753,-89.5953
-97226,el porvenir,20.984,-89.6395
+97226,el porvenir,20.99353,-89.66348
 97227,las vigas,20.8753,-89.5953
-97227,jacinto canek,20.984,-89.6395
+97227,jacinto canek,20.98993,-89.6567
 97229,xcom,20.8753,-89.5953
 97229,ampliaciun roma (luis echeverria),20.8753,-89.5953
 97229,luis echeverria alvarez,20.984,-89.6395
@@ -405,12 +405,12 @@ cp,colonia,lat,lon
 97238,nora quintana,20.9328,-89.6283
 97238,jardines de yucalpeten,20.9328,-89.6283
 97239,yucalpeten secc florida,20.9328,-89.6283
-97240,francisco i madero,20.984,-89.6395
+97240,francisco i madero,20.96994,-89.65666
 97245,xoclan canto,20.9259,-89.7159
 97245,xoclan santos,20.9259,-89.7159
-97245,lopez portillo,20.984,-89.6395
+97245,lopez portillo,20.96723,-89.65892
 97246,juan pablo ii,20.9167,-89.7167
-97246,la reja,20.984,-89.6395
+97246,la reja,20.9644,-89.65709
 97246,mulsay,20.9167,-89.7167
 97246,los angeles,20.984,-89.6395
 97246,bosques de mulsay,20.9167,-89.7167
@@ -436,7 +436,7 @@ cp,colonia,lat,lon
 97246,mulsay de la magdalena,20.9167,-89.7167
 97246,mulsay poligono,20.9167,-89.7167
 97247,san cayetano,20.9259,-89.7159
-97247,san lorenzo,20.984,-89.6395
+97247,san lorenzo,20.96897,-89.64981
 97249,tixcacal opichen,20.9443,-89.7144
 97249,pedregales de nueva mulsay etapa,20.9305,-89.7155
 97249,ampliaciun tixcacal opichen,20.9305,-89.7155
@@ -457,7 +457,7 @@ cp,colonia,lat,lon
 97249,nueva mulsay i,20.9305,-89.7155
 97249,xoclan susula,20.9305,-89.7155
 97249,jardines de nueva mulsay ii,20.9305,-89.7155
-97250,sambula,20.984,-89.6395
+97250,sambula,20.955,-89.64665
 97250,nueva sambula,20.7,-89.8
 97255,santa brbara,20.984,-89.6395
 97255,el roble,20.7994,-89.6093
@@ -467,7 +467,7 @@ cp,colonia,lat,lon
 97255,roble ii,20.7994,-89.6093
 97256,libertad iii,20.87,-89.5875
 97256,renacimiento i,20.87,-89.5875
-97256,lol-be,20.984,-89.6395
+97256,lol-be,20.96847,-89.59396
 97256,industrial bridec,20.87,-89.5875
 97256,renacimiento ii,20.87,-89.5875
 97256,graciano ricalde,20.87,-89.5875
@@ -476,7 +476,7 @@ cp,colonia,lat,lon
 97256,alvaro torres,20.87,-89.5875
 97256,libertad ii,20.87,-89.5875
 97256,pino surez,20.87,-89.5875
-97258,salvador alvarado,20.984,-89.6395
+97258,salvador alvarado,20.95105,-89.65265
 97259,itzaez,20.7994,-89.6093
 97260,obrera,20.9328,-89.6283
 97260,circuito colonias,20.9328,-89.6283
@@ -496,10 +496,10 @@ cp,colonia,lat,lon
 97278,bosques del pedregal,20.853,-89.5979
 97279,santa rosa,20.853,-89.5979
 97279,quinta santa rosa,20.853,-89.5979
-97280,santa rita,20.984,-89.6395
+97280,santa rita,21.02156,-89.57064
 97280,5 colonias,20.8618,-89.6404
 97284,lomas del sur,20.8618,-89.6404
-97285,las nubes,20.984,-89.6395
+97285,las nubes,20.93908,-89.69127
 97285,plan de ayala sur,20.8995,-89.6203
 97285,san jose tzal,20.8242,-89.6605
 97285,palmas del sur,20.8618,-89.6404
@@ -517,21 +517,21 @@ cp,colonia,lat,lon
 97285,villa bonita,20.8618,-89.6404
 97285,lotificacion serapio rendun 1,20.8618,-89.6404
 97286,las brisas del sur,20.8618,-89.6404
-97287,del sur,20.984,-89.6395
+97287,del sur,20.92268,-89.60915
 97288,ampliaciun ciudad industrial,20.8618,-89.6404
 97288,ciudad industrial,20.8618,-89.6404
 97289,la hacienda,20.8618,-89.6404
 97289,san nicols del sur,20.8618,-89.6404
-97290,la guadalupana,20.984,-89.6395
+97290,la guadalupana,20.8975,-89.64083
 97290,san antonio xluch,20.8985,-89.6509
 97290,nueva san jose tecoh,20.8985,-89.6509
 97290,san antonio xluch ii,20.8985,-89.6509
 97290,san luis sur,20.8985,-89.6509
-97295,san marcos,20.984,-89.6395
+97295,san marcos,20.89944,-89.66947
 97295,santa cruz,20.8807,-89.6533
 97295,el roble agricola,20.8807,-89.6533
 97295,merida (lic. manuel crescencio rejon),20.8807,-89.6533
-97296,san marcos nocoh,20.8896,-89.6521
+97296,san marcos nocoh,20.92613,-89.66226
 97296,san marcos nocoh ii,20.8896,-89.6521
 97297,emiliano zapata sur iii,20.8896,-89.6521
 97297,emiliano zapata sur ii,20.8896,-89.6521
@@ -581,7 +581,7 @@ cp,colonia,lat,lon
 97305,santa gertrudis copo,21.0332,-89.5919
 97305,cholul,21.0426,-89.5587
 97305,granjas cholul,21.0426,-89.5587
-97305,jalapa,20.984,-89.6395
+97305,jalapa,21.05338,-89.64074
 97305,sian kaan,20.98739,-89.70302
 97305,san luis cholul,21.06207,-89.55355
 97305,residencial campestre viladiu,21.05556,-89.54764
@@ -600,7 +600,7 @@ cp,colonia,lat,lon
 97306,los heroes,21.0293,-89.5014
 97306,villas de oriente,21.0293,-89.5014
 97306,chichi surez,21.0293,-89.5014
-97307,la rejoyada,20.984,-89.6395
+97307,la rejoyada,21.12094,-89.67533
 97308,yucatn country club,21.1172,-89.635
 97308,santa maria yaxche,21.1172,-89.635
 97309,yaxche casares,21.034,-89.5002
@@ -612,11 +612,11 @@ cp,colonia,lat,lon
 97314,caucel,21.0154,-89.7035
 97314,la ceiba,21.0914,-89.6294
 97314,susul,20.9727,-89.6967
-97314,las torres,20.984,-89.6395
+97314,las torres,21.04119,-89.58947
 97314,boulevares,21.0265,-89.6765
 97314,la herradura,20.984,-89.6395
 97314,ciricotes de caucel,21.0265,-89.6765
-97314,los almendros,20.984,-89.6395
+97314,los almendros,20.98903,-89.70609
 97314,sol caucel,21.0265,-89.6765
 97314,caucel ii,21.0265,-89.6765
 97314,horizontes de caucel,21.0265,-89.6765
